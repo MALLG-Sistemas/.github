@@ -12,12 +12,16 @@ Aqui, trabalhamos no desenvolvimento de sistemas, utilizando os conhecimentos ad
 
 A **MALLG Sistemas** foi fundada pelos seguintes membros:
 
-- **André Vicente Guesser**  
-- **Guilherme Veloso de Oliveira**  
-- **Lucas Sagaz da Silva**  
-- **Mauricio Macedo da Silva**  
+- **André Vicente Guesser**
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](
+- **Guilherme Veloso de Oliveira**
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](
+- **Lucas Sagaz da Silva**
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-sagaz-da-silva-6a41b3230/)
+- **Mauricio Macedo da Silva**
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-macedo-22570085/)
 - **Lucas Elias Dickmann**  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-dickmann)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-dickmann)
 
 ## ⚙️ Tecnologias Utilizadas
 
